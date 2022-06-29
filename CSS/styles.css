@@ -1,0 +1,24 @@
+body {
+  background-image: url(/Imagenes/Fondo_carton.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.titulo1 {
+  color: aliceblue;
+}
+
+.parrafo_1 {
+  height: 50vh;
+  margin: 18%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+/*# sourceMappingURL=styles.css.map */
